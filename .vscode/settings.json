@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "__config": "cpp",
+        "__locale": "cpp",
+        "__verbose_abort": "cpp",
+        "bitset": "cpp",
+        "cstdlib": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "format": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "ios": "cpp",
+        "locale": "cpp",
+        "random": "cpp",
+        "stdexcept": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "version": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "cstring": "cpp",
+        "istream": "cpp",
+        "sstream": "cpp",
+        "stacktrace": "cpp",
+        "variant": "cpp",
+        "iostream": "cpp"
+    }
+}
